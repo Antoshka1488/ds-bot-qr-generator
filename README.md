@@ -44,7 +44,9 @@ Use the bot on discord by sending a message
 /generate [data] [color] [image-width] [image-height]
 ```
 data - data to encode
+
 color - embed color in hex format (optional)
+
 image-width, image height - image size (optional)
 
 ## License
